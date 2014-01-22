@@ -8,3 +8,5 @@ p << "Sivv" if n%7 == 0
 p << n.to_s if p.empty?
 puts p
 end
+
+
